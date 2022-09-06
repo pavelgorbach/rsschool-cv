@@ -20,6 +20,40 @@ ESlint, Prettier, Jest
 **Development environments (IDE/Tools)**:\
 iTerm2, zsh, Vim, VSCode, GitHub, Jira, Figma, Discord
 
+## Code example
+
+**Roman Numeral Converter**
+```
+const hash = {
+  1: 'I',
+  4: 'IV',
+  5: 'V',
+  9: 'IX',
+  10: 'X',
+  40: 'XL',
+  50: 'L',
+  90: 'XC',
+  100: 'C',
+  400: 'CD',
+  500: 'D',
+  900: 'CM',
+  1000: 'M'
+}
+
+const convertToRoman = (num) => {
+  const result = []
+
+  Object.keys(hash).reverse().forEach((n) => {
+    while (n <= num) {
+      result.push(hash[n])
+      num -= n
+    }
+  })
+  
+  return result.join('')
+}
+```
+
 ## Experience/Projects
 1. [Rick and Morty Widget](https://rknmorty.web.app/)
 2. [Quote Machine](https://qt-machine.web.app/)
