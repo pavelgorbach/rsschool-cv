@@ -74,7 +74,7 @@ const convertToRoman = (num) => {
 **freeCodeCamp** — [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc59ca2997-2d59-4c7a-b63e-f734c43412bd/javascript-algorithms-and-data-structures)\
 *Sep 2021 - Feb 2022*.
 
-Belarusian State University of Culture and Arts — Bachelor’s Degree\
+**Belarusian State University of Culture and Arts** — Bachelor’s Degree\
 *Sep 2010 - ...*.
 
 ## Languages
