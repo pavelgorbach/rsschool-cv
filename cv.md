@@ -13,7 +13,7 @@ I am a Frontend developer with a focus on high performance Web apps. I love solv
 **Programming languages**:\
 JavaScript, HTML, CSS
 
-**Frameworks, libraries, services**:\
+**Frameworks, libraries**:\
 React, Redux, JQuery\
 SASS, Less, CSS Modules, Bootstrap\
 ESlint, Prettier, Jest
@@ -79,6 +79,6 @@ const convertToRoman = (num) => {
 
 ## Languages
 
-English - B2(Upper Intermediate)
+**English** - B2(Upper Intermediate)
 
-Belorussian, Russian - Native or bilingual proficiency
+**Belorussian, Russian** - Native or bilingual proficiency
