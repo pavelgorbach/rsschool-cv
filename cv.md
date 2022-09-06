@@ -4,6 +4,7 @@
 
 Email: polgorbach@gmail.com\
 Discord: Pavel(@pavelgorbach)
+
 ***
 
 I am a Frontend developer with a focus on high performance Web apps. I love solving problems, making things simple, fixing things that could be improved, and making the user experience simple but efficient. I like to drive projects and make sure that they are appropriately designed. Passionate about code quality, unit testing, functional programming.
