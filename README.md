@@ -1,1 +1,1 @@
-https://github.com/pavelgorbach/rsschool-cv/tree/gh-pages
+https://pavelgorbach.github.io/rsschool-cv/cv
