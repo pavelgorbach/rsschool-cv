@@ -24,7 +24,7 @@ iTerm2, zsh, Vim, VSCode, GitHub, Jira, Figma, Discord
 ## Code example
 
 **Roman Numeral Converter**
-```
+```javascript
 const hash = {
   1: 'I',
   4: 'IV',
