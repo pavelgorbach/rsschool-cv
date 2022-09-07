@@ -7,5 +7,6 @@
 }
 
 .avatar__img {
+  width: 230px;
   border-radius: 50%;
 }
