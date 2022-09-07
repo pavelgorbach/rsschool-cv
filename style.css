@@ -1,0 +1,11 @@
+.container {
+  display: grid;
+}
+
+.avatar {
+  text-align: left;
+}
+
+.avatar__img {
+  border-radius: 50%;
+}
