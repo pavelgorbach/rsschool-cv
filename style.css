@@ -1,3 +1,11 @@
 .container {
   display: grid;
 }
+
+.avatar {
+  text-align: center;
+}
+
+.avatar__img {
+  border-radius: 50%;
+}
